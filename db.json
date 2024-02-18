@@ -1,5 +1,62 @@
 {
   "produtos": [
+    {
+      "id": "1",
+      "nome": "Headphone W820BT Bluetooth Over-Ear Edifier",
+      "valor": "4",
+      "descricao": "O Headphone W820BT da Edifier é um fone de ouvido over-ear com conectividade Bluetooth, projetado para oferecer conforto e um som de alta qualidade. Com ênfase em graves completos e um equilíbrio sonoro que a categoria over-ear proporciona, este headphone proporciona uma experiência de áudio imersiva. Além disso, vem com a praticidade da tecnologia sem fio Bluetooth, garantindo estabilidade na conexão e liberdade de movimento. Ele também apresenta um design elegante e funcionalidades como longa duração de bateria, possibilitando uso prolongado sem a necessidade de recarga frequente.",
+      "imagem": "../Imagens/headphone.png"
+    },
+    {
+      "id": "2",
+      "nome": "Teclado Mecánico Gamer Redragon MITRA K551",
+      "valor": "4",
+      "descricao": "Este teclado é destacado por seu alto desempenho e possui recursos como 12 teclas multimídia, controle de iluminação ajustável, sistema anti-ghosting N*Key Rollover em todas as teclas, e funcionalidade para desligar ou ligar a tecla Win. As keycaps são feitas pelo método Double-Shot Injection e o teclado segue o padrão ABNT2, adequado para o mercado brasileiro. Além disso, é equipado com switches mecânicos Outemu Brown, oferece vários modos de iluminação RGB, e tem uma construção robusta com metal e plástico ABS. Suas dimensões são aproximadamente 43cm de largura, 12,5cm de altura e 4cm de profundidade, e ainda conta com a característica de switches removíveis.",
+      "imagem": "../Imagens/teclado.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Mousepad Gamer Exbom,Extra Grande, LED RGB 7 Cores",
+      "valor": "4",
+      "descricao": "O Mousepad Gamer da Exbom é um acessório extra grande e do tipo, que oferece uma superfície otimizada para movimentos rápidos e precisos, ideal para jogadores que buscam aprimorar sua performance em jogos. Com dimensões generosas de 80x30cm, ele fornece ampla área de manobra para o mouse. Além da funcionalidade, este mousepad tem um apelo estético marcante, apresentando iluminação LED RGB com 7 cores diferentes, que adiciona um toque de personalização e estilo ao setup de qualquer jogador.",
+      "imagem": "../Imagens/mousepad.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Bicicleta South New R06 24 Marchas - Freios Hidráulicos",
+      "valor": "8",
+      "descricao": "A Bicicleta South New R06 é uma bicicleta versátil equipada com 24 marchas, proporcionando ao ciclista uma ampla gama de opções de velocidade para diferentes terrenos. Os freios hidráulicos oferecem maior poder de parada e controle refinado, enquanto a suspensão com trava ajuda a navegar em terrenos acidentados, permitindo a travagem para melhor eficiência em superfícies lisas. A construção em alumínio garante leveza e durabilidade, tornando-a uma escolha sólida para ciclistas que buscam performance e confiabilidade.",
+      "imagem": "../Imagens/bicicleta.jpg"
+    },
+    {
+      "id": "5",
+      "nome": "Robô Aspirador de Pó! Smart 500, Filtro HEPA, Preto ",
+      "valor": "5",
+      "descricao": "O Robô Aspirador de Pó Smart 500 é um dispositivo de limpeza autônomo projetado para oferecer conveniência e eficiência. Ele vem equipado com a tecnologia de recarregamento automático, retornando à base quando necessário para garantir que esteja sempre pronto para a limpeza. O filtro HEPA integrado é um diferencial importante, pois captura até as menores partículas de poeira e alérgenos, contribuindo para um ambiente mais saudável. A capacidade de controle remoto via aplicativo adiciona uma camada de funcionalidade moderna, permitindo aos usuários programar e monitorar a limpeza de qualquer lugar. Com sua cor preta elegante e o modelo KBSF000, este robô aspirador é uma solução inteligente para manter a limpeza diária da casa com o mínimo de esforço.",
+      "imagem": "../Imagens/robo-aspirador-de-po.jpg"
+    },
+    {
+      "id": "6",
+      "nome": "Volante Logitech G29 Driving Force para PS5, PS4, PS3",
+      "valor": "4",
+      "descricao": "O Volante Logitech G29 Driving Force é um acessório de simulação de corrida projetado para entusiastas de jogos de automobilismo que buscam uma experiência de condução realista. Compatível com PS5, PS4, PS3 e PC, o modelo 941-000111 é uma escolha robusta para jogadores que desejam aprimorar seu desempenho em jogos de corrida. O volante conta com force feedback de dois motores, que simula a sensação de dirigir um carro real com precisão, e pedais responsivos que permitem uma aceleração, frenagem e mudança de marchas mais naturais. Sua construção é durável, com uso de aço e couro de alta qualidade, proporcionando tanto conforto quanto durabilidade para sessões de jogo longas e intensas.",
+      "imagem": "../Imagens/volante-logitech.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Cadeira Gamer Husky Gaming Blizzard 900, Preto, Reclinável",
+      "valor": "4",
+      "descricao": "A Cadeira Gamer Husky Gaming Blizzard 900 é uma escolha premium para jogadores que buscam conforto e estilo. Com uma cor preta sóbria e design ergonômico, esta cadeira é reclinável, permitindo ajustes para a posição de jogo ideal. A construção robusta da cadeira visa oferecer suporte durante longas sessões de jogos, enquanto seus materiais de alta qualidade garantem durabilidade e resistência. A cadeira também apresenta acolchoamento extra para suporte lombar e conforto prolongado, tornando-a uma opção atraente para jogadores que valorizam a saúde postural e o conforto sem comprometer a experiência de jogo.",
+      "imagem": "../Imagens/cadeira-gamer.jpg"
+    },
+    {
+      "id": "8",
+      "nome": "Drone DJI Mini 3 Rc-N1, Fly More Combo, 4K, Sem Tela, Cinza",
+      "valor": "4",
+      "descricao": "O Drone DJI Mini 3 RC-N1, parte do Fly More Combo, é um dispositivo compacto e poderoso projetado para entusiastas de fotografia e vídeo aéreo. Com capacidade de gravação em 4K, oferece imagens de alta qualidade e detalhadas. Sua notável distância de transmissão de até 10Km permite explorar e capturar vistas amplas sem perder a conexão. Os Quickshots, modos de voo predefinidos, facilitam a criação de conteúdo cinematográfico com apenas alguns toques. Este modelo vem sem tela, exigindo o uso de um smartphone para visualização em tempo real e controle. Com acabamento em cinza, o DJI Mini 3 RC-N1 é elegante e discreto, ideal para viagens e aventuras ao ar livre, mantendo-se dentro das regulamentações para drones leves.",
+      "imagem": "../Imagens/drone.jpg"
+    }
   ],
-“resgates”: [  
-]}
+  "resgates": [  
+  ]
+}
